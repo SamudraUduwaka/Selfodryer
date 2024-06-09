@@ -22,6 +22,8 @@ Key Features:
   </li>
 </ul>
 
+<image src='Selfodryer Robot.jpg'/>
+
 For any concern or clarification please contact:
 - [Samudra Uduwaka](mailto:samudrauduwaka@gmail.com)
 - [Nilupulee Amarathunga](mailto:nilupuleeamarathunga@gmail.com)
